@@ -9,8 +9,14 @@ usage of ebpf:
 
 tcpdump uses bpf (original berkeley packet filter tool)
 
-`install cilium`
+`cilium install`
 will install a daemon set agent and an operator
+cluster role, service account, configmap, some secrets, 
+
+`cilium connectivity test`
+
+will deploy a test namespace and some pods to run connectivity tests
+
 
 ## Links
 * https://github.com/isovalent/eCHO/tree/main/episodes/001
