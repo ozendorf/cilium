@@ -7,6 +7,11 @@ usage of ebpf:
 * traffic accounting is using ebpf
 * google with ebpf 
 
+tcpdump uses bpf (original berkeley packet filter tool)
+
+`install cilium`
+will install a daemon set agent and an operator
+
 ## Links
 * https://github.com/isovalent/eCHO/tree/main/episodes/001
 
