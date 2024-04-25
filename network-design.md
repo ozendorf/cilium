@@ -57,3 +57,7 @@ meaning it makes the kernel programmable in a dynamic and secure way
 * cluster wide network policies
 * clusger mesh -> network policies accross multiple clusters
 * hubble = hubble ui + hubble cli + hubble metrics
+ * hubble metrics = builtin metrics for operation and application monitoring
+ * hubble cli is more powerfull than ui
+* network policy editor editor.cilium.io
+* grafana for policy verdict metrics and to follow if you have implemented all network policy (mismatch monitoring)
