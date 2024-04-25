@@ -34,5 +34,6 @@ Start with two types of policies:
 Inspect your ingress / egress with hubble ui / cli
 know where is your most exposed namespaces -> which namespaces have the most important traffic 
 
+![alt text](https://github.com/ozendorf/cilium/blob/main/network_policies_guardrails.png)
 Some 
 # Automation
