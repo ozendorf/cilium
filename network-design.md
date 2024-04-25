@@ -34,6 +34,14 @@ Start with two types of policies:
 Inspect your ingress / egress with hubble ui / cli
 know where is your most exposed namespaces -> which namespaces have the most important traffic 
 
-![alt text](https://github.com/ozendorf/cilium/blob/main/network_policies_guardrails.png)
-Some 
+
 # Automation
+
+![alt text](https://github.com/ozendorf/cilium/blob/main/network_policies_guardrails.png)
+
+Automated checks in PR for teams submitted : 
+* CIDR blocks
+* egress to any
+* allow flow on unsecure protocols related port (port 80)
+
+Ideas: 
