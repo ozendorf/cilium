@@ -43,5 +43,16 @@ Automated checks in PR for teams submitted :
 * CIDR blocks
 * egress to any
 * allow flow on unsecure protocols related port (port 80)
+* only allow specific fqdns and specific ips automatically
 
-Ideas: 
+# Cilium features
+
+ebpf = to kernel what javascript is to the browser
+meaning it makes the kernel programmable in a dynamic and secure way
+
+* Identity based security
+* API aware authorization
+* http aware cilium network policy
+* dns aware network policies (s3 buckets for example)
+* cluster wide network policies
+* clusger mesh -> network policies accross multiple clusters
