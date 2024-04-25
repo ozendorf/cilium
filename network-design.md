@@ -56,3 +56,4 @@ meaning it makes the kernel programmable in a dynamic and secure way
 * dns aware network policies (s3 buckets for example)
 * cluster wide network policies
 * clusger mesh -> network policies accross multiple clusters
+* hubble = hubble ui + hubble cli + hubble metrics
