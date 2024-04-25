@@ -21,3 +21,18 @@ For example:
 * number of services reachable from other namespaces
 * number of services with access to external network or internet
 
+## Initial policies 
+
+Start with two types of policies: 
+* **Cluster wide policies:** same rules for every one; for example: 
+  * allow access to dns service with port 53
+  * allow access to monitoring (prom for ex) with port 9090
+* **Namespace policies:** specific rules will be implemented by teams
+  * Access to specific applicative services
+  * access to internal network
+ 
+Inspect your ingress / egress with hubble ui / cli
+know where is your most exposed namespaces -> which namespaces have the most important traffic 
+
+Some 
+# Automation
