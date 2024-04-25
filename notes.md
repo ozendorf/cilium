@@ -1,8 +1,8 @@
 Voir tetragon and threat detection? 
 https://www.youtube.com/watch?v=u8HKg5pENj4&list=PLDg_GiBbAx-lcawPA-p0FCHzWO2jX0nDr&index=4&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D
 
-reprendre network design ici 
-https://www.youtube.com/watch?v=yikVhGM2ye8&list=PLDg_GiBbAx-lcawPA-p0FCHzWO2jX0nDr&index=3&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D
+voir le dernier épisode : https://www.youtube.com/watch?v=IyIxVd__SDk&ab_channel=eBPF%26CiliumCommunity
+more technical tests 
 
 # Some ideas 
 * Implement grafana dashboard in the poc 
