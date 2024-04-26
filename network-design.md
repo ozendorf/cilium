@@ -34,6 +34,8 @@ Start with two types of policies:
 Inspect your ingress / egress with hubble ui / cli
 know where is your most exposed namespaces -> which namespaces have the most important traffic 
 
+# Microsegmentation
+
 
 # Automation
 
@@ -61,3 +63,4 @@ meaning it makes the kernel programmable in a dynamic and secure way
  * hubble cli is more powerfull than ui
 * network policy editor editor.cilium.io
 * grafana for policy verdict metrics and to follow if you have implemented all network policy (mismatch monitoring)
+* parses API protocols like HTTP, gRPC, and Kafka
