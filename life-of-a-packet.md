@@ -8,4 +8,11 @@ debugging kubernetes with crictl
 
 nsenter command executes program in the namespace(s) that are specified in the command-line options
 
-![image](https://github.com/ozendorf/cilium/assets/50991080/d5b5108f-4104-4da7-b97f-2dd78306169e)
+What cilium does is instrumenting an interface to put traffic control connection on the interface. That's where we write the ebpf program.
+
+![image](https://github.com/ozendorf/cilium/assets/50991080/5eeced7c-65d5-4024-af54-ed48bf6faeb2)
+
+ethtool is used to query and control network device driver and hardware settings, particularly for wired Ethernet devices
+
+to get a bash interface on a pod : 
+```kubectl exec -ti "pod_name" bash ```
