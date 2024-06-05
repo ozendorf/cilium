@@ -8,4 +8,6 @@ more technical tests
 * Implement grafana dashboard in the poc 
 * how to automatically check network policies
 * what are the tools existing for security checks on network policies?
-* contribute to semgrep ? 
+* contribute to semgrep ?
+
+* deploy test apps on the cluster and interact / lateral movement (nmap etc.) 
