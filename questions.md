@@ -8,3 +8,4 @@ Networking:
 
 Policies
 * How to blacklist network flow with policies?
+* How policies override themselves ? how priorities are managed?
