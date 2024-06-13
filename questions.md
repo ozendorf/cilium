@@ -4,4 +4,4 @@
 
 
 Networking:
-*How cilium and load balancer tools like haproxy work together
+* How cilium and load balancer tools like haproxy work together
