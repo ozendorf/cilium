@@ -6,7 +6,9 @@ more technical tests
 
 
 # Next time
-* deploy test apps on the cluster and interact / lateral movement (nmap etc.) 
+* deploy test apps on the cluster and interact / lateral movement (nmap etc.)
+* try https://raw.githubusercontent.com/cilium/cilium/1.15.6/examples/minikube/http-sw-app.yaml
+* 
 
 
 # Some ideas 
