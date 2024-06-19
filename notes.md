@@ -7,6 +7,7 @@ more technical tests
 
 # Next time
 * finish deployment of test apps on the cluster and interact / lateral movement (nmap etc.)
+  * deploy an web service, deploy two containers to target the app  
 * implement first NPs
 * read more articles
 * try hubble-ui
