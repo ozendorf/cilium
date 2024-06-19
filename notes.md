@@ -6,7 +6,8 @@ more technical tests
 
 
 # Next time
-* deploy test apps on the cluster and interact / lateral movement (nmap etc.)
+* finish deployment of test apps on the cluster and interact / lateral movement (nmap etc.)
+* implement first NPs
 * try https://raw.githubusercontent.com/cilium/cilium/1.15.6/examples/minikube/http-sw-app.yaml
 * understand the whole wording in cilium - cf av doc
 
