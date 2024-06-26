@@ -3,3 +3,6 @@
 
 ### Check other policies 
 ``` kubectl get ciliumnetworkpolicies ```
+
+### Use debug utility 
+``` exec -ti cilium-bjjfh -n cilium -- /bin/bash ```
