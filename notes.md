@@ -7,6 +7,7 @@ more technical tests
 
 # Next time
 * implement first nps
+* read change log of cilium 1.16
 * see why they dont work - troubleshoot with: hubbleui, hubble-cli etc. 
 * read more articles
 * try hubble-ui
