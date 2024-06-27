@@ -12,6 +12,7 @@ more technical tests
 * try hubble-ui
 * try https://raw.githubusercontent.com/cilium/cilium/1.15.6/examples/minikube/http-sw-app.yaml
 * understand the whole wording in cilium - cf av doc
+* watch https://www.youtube.com/watch?v=ETPFtnH-0pA&t=18s&ab_channel=Isovalent
 
 
 # Some ideas 
